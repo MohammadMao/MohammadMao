@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adam</h1>
-<h3 align="center">A Passionate IT Graduate & Software Developer</h3>
+<h3 align="center">A Passionate IT Major & Software Developer</h3>
 
 - 🌱 I’m currently learning **Django, TypeScript**
 
