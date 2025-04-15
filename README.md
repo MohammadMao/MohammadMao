@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adam</h1>
-<h3 align="center">A Passionate IT Major & Software Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Django, TypeScript**
 
 - 📫 How to reach me **mohammadmao1999@outlook.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1slvlRgZZxJGkFliI8tPTl6ej6btHhNjp/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1WASJCkEILDG59C8XFmfQiX9HUMldiqAu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
