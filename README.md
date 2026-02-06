@@ -58,7 +58,6 @@
 
 ### 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" width="40" />
   <img src="https://skillicons.dev/icons?i=illustrator" width="40" />
   <img src="https://skillicons.dev/icons?i=photoshop" width="40" />
 </p>
